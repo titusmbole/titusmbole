@@ -39,10 +39,10 @@ My portfolio, showcasing my work and contributions, is available on GitHub ([see
 
 ☄️ Web development  
 ☄️ API Integration  
-☄️ App Development 
-☄️ Data Analytics
-☄️ DevOps Automation
-☄️ Software engineering
+☄️ App Development  
+☄️ Data Analytics  
+☄️ DevOps Automation  
+☄️ Software engineering  
 
 ---
 ## Tool Kit
