@@ -32,17 +32,17 @@ My portfolio, showcasing my work and contributions, is available on GitHub ([see
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titus-mbole-2aa53b408/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](titus.eddys@gmail.com)
 [![Devpost](https://img.shields.io/badge/Devpost-000000?logo=DevPost&logoColor=#d16c06)](https://devpost.com/titus-eddys)
-[![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=#d16c06)](https://devpost.com/titus-eddys)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=#d16c06)](https://devpost.com/titus-eddys)
 
 ---
 ## Domains Expertise
 
 ☄️ Web development  
 ☄️ API Integration  
-☄️ App Development  
-☄️ Data Analytics  
+☄️ App Development 
+☄️ Data Analytics
 ☄️ DevOps Automation
-☄️ Software engineering  
+☄️ Software engineering
 
 ---
 ## Tool Kit
