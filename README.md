@@ -69,7 +69,7 @@ My portfolio, showcasing my work and contributions, is available on GitHub ([see
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-009485.svg?logo=flask&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-009485.svg?logo=react&logoColor=white)](#)
-[![Nextjs](https://img.shields.io/badge/Nextjs-009485.svg?logo=nextjs&logoColor=white)](#)
+[![Nextjs](https://img.shields.io/badge/Next-009485.svg?logo=next&logoColor=white)](#)
 
 ## Monitoring
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
