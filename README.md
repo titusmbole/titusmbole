@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-Analytics Engineer | Data Scientist
+Software Engineer | AI Engineer | DevOPs Engineer
 
 I’m a results-driven software engineer with a strong focus on building scalable systems, intelligent applications, and data-driven products. I enjoy turning complex problems into simple, efficient, and production-ready solutions.
 
@@ -24,13 +24,12 @@ Developing data pipelines and intelligent automation systems
 Working with cloud infrastructure and modern DevOps workflows
 I focus on writing clean, maintainable, and efficient code while ensuring systems are robust, secure, and production-ready.
 
-My portfolio, showcasing my work and contributions, is available on GitHub ([see repositories](https://github.com/SusanMamu?tab=repositories)). If you share a similar vision or would like to collaborate, feel free to reach out 📫 susanmamu7@gmail.com
+My portfolio, showcasing my work and contributions, is available on GitHub ([see repositories](https://github.com/titusmbole?tab=repositories)). If you share a similar vision or would like to collaborate, feel free to reach out 📫 titus.eddys@gmail.com
 
 ---
 ## Professional Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-mamu-a412ab14b/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SusanMamu/SusanMam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titus-mbole-2aa53b408/)
 
 ---
 ## Domains of Interests & Expertise
