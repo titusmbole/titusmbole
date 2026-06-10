@@ -27,15 +27,18 @@ I focus on writing clean, maintainable, and efficient code while ensuring system
 My portfolio, showcasing my work and contributions, is available on GitHub ([see repositories](https://github.com/titusmbole?tab=repositories)). If you share a similar vision or would like to collaborate, feel free to reach out 📫 titus.eddys@gmail.com
 
 ---
-## Professional Links
+## Professional Links & Socials 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titus-mbole-2aa53b408/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](titus.eddys@gmail.com)
+[![Devpost](https://img.shields.io/badge/Devpost-000000?logo=DevPost&logoColor=#d16c06)](https://devpost.com/titus-eddys)
 
 ---
 ## Domains Expertise
 
 ☄️ Web development  
 ☄️ API Integration  
+☄️ App Development  
 ☄️ Data Analytics  
 ☄️ DevOps Automation
 ☄️ Software engineering  
@@ -63,6 +66,8 @@ My portfolio, showcasing my work and contributions, is available on GitHub ([see
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
 
 ## Framework
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-44A833?logo=springboot&logoColor=fff)](#)
@@ -83,20 +88,9 @@ My portfolio, showcasing my work and contributions, is available on GitHub ([see
 [![Dart](https://img.shields.io/badge/Dart-3776AB?logo=dart&logoColor=fff)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-3776AB?logo=flutter&logoColor=fff)](#)
 
-
-## Social Media
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-
-## Version Control
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-
 ---
 ## 📊 GitHub Stats
-![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusanMamu&show_icons=true&theme=default)
+![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=titusmbole&show_icons=true&theme=default)
 
 ---
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
