@@ -34,6 +34,7 @@ My portfolio, showcasing my work and contributions, is available on GitHub ([see
 [![Devpost](https://img.shields.io/badge/Devpost-000000?logo=DevPost&logoColor=#d16c06)](https://devpost.com/titus-eddys)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=#d16c06)](https://x.com/QuadritonE)
 [![Reddit](https://img.shields.io/badge/Reddit-000000?logo=reddit&logoColor=#d16c06)](https://www.reddit.com/user/Away_Drag6898/)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=#d16c06)](https://medium.com/@titus.eddys)
 
 ---
 ## Domains Expertise
