@@ -65,10 +65,11 @@ My portfolio, showcasing my work and contributions, is available on GitHub ([see
 
 ## Framework
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-44A833?logo=springboot&logoColor=fff)](#)
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Spring](https://img.shields.io/badge/Spring-44A833?logo=spring&logoColor=fff)](#)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-009485.svg?logo=flask&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-009485.svg?logo=react&logoColor=white)](#)
+[![Nextjs](https://img.shields.io/badge/Nextjs-009485.svg?logo=nextjs&logoColor=white)](#)
 
 ## Monitoring
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
