@@ -62,6 +62,7 @@ My portfolio, showcasing my work and contributions, is available on GitHub ([see
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
 
 ## Framework
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-44A833?logo=springboot&logoColor=fff)](#)
@@ -70,29 +71,18 @@ My portfolio, showcasing my work and contributions, is available on GitHub ([see
 [![Flask](https://img.shields.io/badge/Flask-009485.svg?logo=flask&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-009485.svg?logo=react&logoColor=white)](#)
 [![Nextjs](https://img.shields.io/badge/Next-009485.svg?logo=next&logoColor=white)](#)
-
-## Monitoring
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)
-
-## Operation System
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-
-## Package Manager
-[![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](#)
-[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
-[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)
+[![ReactNative](https://img.shields.io/badge/ReactNative-009485.svg?logo=reactnative&logoColor=white)](#)
 
 ## Programming Language
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-3776AB?logo=java&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?logo=javascript&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3776AB?logo=typescript&logoColor=fff)](#)
+[![Rust](https://img.shields.io/badge/Rust-3776AB?logo=rust&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-3776AB?logo=go&logoColor=fff)](#)
+[![Dart](https://img.shields.io/badge/Dart-3776AB?logo=dart&logoColor=fff)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-3776AB?logo=flutter&logoColor=fff)](#)
+
 
 ## Social Media
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
